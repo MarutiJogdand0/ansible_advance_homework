@@ -1,4 +1,4 @@
-- hosts: workstation-b136.rhpds.opentlc.com
+- hosts: workstation
   gather_facts: true
   roles:
   - name: osp-facts
