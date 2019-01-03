@@ -1,5 +1,5 @@
 ---
-- hosts: workstation-b136.rhpds.opentlc.com
+- hosts: workstation
   become: true
   gather_facts: false
   tasks:
